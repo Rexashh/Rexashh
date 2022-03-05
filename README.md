@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Rexashh8&label=Profile%20views&color=0e75b6&style=plastic" alt="Rexashh" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rexashh8&theme=algolia" alt="Rexashh"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rexashh&theme=algolia" alt="Rexashh"  /></p>
 
 
 ## 🛠️ My Skills
