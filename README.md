@@ -79,8 +79,6 @@
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-  &emsp;
 </p>
 
 <br/>
@@ -101,16 +99,6 @@
   </p>
 </details>
 
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Rexashh"><img alt="Rexashh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rexashh8&custom_title=Rexashh%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
-<br/>
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
