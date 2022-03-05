@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Rexa Aditya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/Rexashh/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Im+Just+Noob;But+I+will+Keep+Learning;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Rexashh/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Im+Just+Noob;But+I+will+Keep+Learning;DS%20|%20AI%20|%20ML%20Enthusiast;lets%20study;Together%20:)%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I'm an amateur and Noob. I love Code, Design, Innovation and Experiment. I am an enthusiastic and social person who likes to take on new challenges and learn new skills. I like meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
