@@ -11,11 +11,6 @@
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rexashh&theme=algolia" alt="Rexashh"  /></p>
 
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
 <p align="left"> 
 
 
