@@ -4,7 +4,7 @@
   <a href="https://github.com/Rexashh/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Im+Just+Noob;But+I+will+Keep+Learning;I%20|%20Like%20|%20CODING%20:);lets%20study;Together%20HEHEHE%20:)%20:)&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I'm an amateur and Noob. I love Code, Design, Innovation and Experiment. I am an enthusiastic and social person who likes to take on new challenges and learn new skills. I like meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">I'm an amateur and Noob.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Rexashh8&label=Profile%20views&color=0e75b6&style=plastic" alt="Rexashh" /> </p>
 
